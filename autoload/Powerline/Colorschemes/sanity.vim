@@ -43,7 +43,7 @@ let g:Powerline#Colorschemes#sanity#colorscheme = Pl#Colorscheme#Init([
 	\ Pl#Hi#Segments(['SPLIT'], {
 		\ 'n': ['white', 'gray6'],
 		\ 'N': ['white', 'gray0'],
-		\ 'i': ['white', 'darkestblue'],
+		\ 'i': ['white', 'gray6'],
 		\ }),
 	\
 	\ Pl#Hi#Segments(['mode_indicator'], {
