@@ -79,9 +79,9 @@ let g:Powerline#Colorschemes#sanity#colorscheme = Pl#Colorscheme#Init([
 		\ }),
 	\
 	\ Pl#Hi#Segments(['fileinfo.flags'], {
-		\ 'n': ['brightestred', ['bold']],
+		\ 'n': ['brightorange', ['bold']],
 		\ 'N': ['darkred'],
-		\ 'i': ['brightestred', ['bold']],
+		\ 'i': ['brightorange', ['bold']],
 		\ }),
 	\
 	\ Pl#Hi#Segments(['currenttag', 'fileformat', 'fileencoding', 'pwd', 'filetype', 'rvm:string', 'rvm:statusline', 'virtualenv:statusline', 'charcode', 'currhigroup'], {
