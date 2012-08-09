@@ -4,9 +4,9 @@ let g:Powerline#Themes#sanity#theme = Pl#Theme#Create(
 		\ , 'mode_indicator'
 		\ , 'fugitive:branch'
 		\ , 'hgrev:branch'
+		\ , Pl#Segment#Truncate()
 		\ , 'fileinfo'
 		\ , 'syntastic:errors'
-		\ , Pl#Segment#Truncate()
 		\ , 'tagbar:currenttag'
 		\ , Pl#Segment#Split()
 		\ , 'rvm:string'
