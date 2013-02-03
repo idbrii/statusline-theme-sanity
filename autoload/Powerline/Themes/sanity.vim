@@ -11,6 +11,7 @@ let g:Powerline#Themes#sanity#theme = Pl#Theme#Create(
 		\ , Pl#Segment#Split()
 		\ , 'rvm:string'
 		\ , 'virtualenv:statusline'
+		\ , 'asynccommand:statusline'
 		\ , 'fileformat'
 		\ , 'fileencoding'
 		\ , 'filetype'

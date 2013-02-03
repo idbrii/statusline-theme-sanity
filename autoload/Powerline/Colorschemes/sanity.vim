@@ -84,7 +84,7 @@ let g:Powerline#Colorschemes#sanity#colorscheme = Pl#Colorscheme#Init([
 		\ 'i': ['brightorange', ['bold']],
 		\ }),
 	\
-	\ Pl#Hi#Segments(['currenttag', 'fileformat', 'fileencoding', 'pwd', 'filetype', 'rvm:string', 'rvm:statusline', 'virtualenv:statusline', 'charcode', 'currhigroup'], {
+	\ Pl#Hi#Segments(['currenttag', 'fileformat', 'fileencoding', 'pwd', 'filetype', 'rvm:string', 'rvm:statusline', 'asynccommand:statusline', 'virtualenv:statusline', 'charcode', 'currhigroup'], {
 		\ 'n': ['gray8', 'gray2'],
 		\ 'i': ['mediumcyan', 'darkestblue'],
 		\ }),
