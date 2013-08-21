@@ -79,6 +79,7 @@ let g:Powerline#Themes#sanity#theme = Pl#Theme#Create(
 	\
 	\ Pl#Theme#Buffer('ft_qf'
 		\ , ['static_str.name', 'Quickfix']
+		\ , ['raw.name', '%{Powerline#Functions#sanity#GetTitle()}']
 		\ , Pl#Segment#Truncate()
 		\ , Pl#Segment#Split()
 	\ ),
