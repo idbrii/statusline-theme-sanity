@@ -20,7 +20,7 @@ let s:cterm_red = 174
 let s:gui_pink = '#d7afd7'
 let s:cterm_pink = 182
 
-let s:file  = ['#ff0000', '', 160, '', '']
+let s:file  = ['#ff8300', '', 160, '', '']
 
 let g:airline#themes#sanity#palette = {}
 
